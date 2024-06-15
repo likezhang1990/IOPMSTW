@@ -1,0 +1,57 @@
+The number of jobs:
+10
+The number of machines:
+2
+The number of Worker:
+2
+The number of Factory:
+2
+Processing time per order on each machine:
+(where rows denote orders: 1 to 10 and columns denote machines: 1 to 2)
+
+30,14
+13,18
+27,22
+23,15
+17,16
+14,22
+18,15
+20,27
+12,30
+22,25
+
+The factory where the machine is located:
+(where columns denote machines: 1 to 2)
+1,2
+
+Processing energy consumption per unit time per machine:
+(where columns denote machines: 1 to 2)
+2.4,3.3
+
+The efficiency at which a worker repairs a machine:
+(where columns denote workers: 1 to 2)
+0.7,1
+
+the basic maintenance time of machine:
+(where columns denote machines: 1 to 2)
+22,39
+
+the deterioration rate of machine:
+(where columns denote machines: 1 to 2)
+0.9,0.9
+
+the initial health value of machine:
+(where columns denote machines: 1 to 2)
+29.7,35.1
+
+the transfer time between machines:
+(where rows denote machines: 1 to 2 and columns denote machines: 1 to 2)
+
+0,20
+20,0
+
+The maintenance cost of workers in both modes:
+(where rows denote modes: 1 to 2 and columns denote workers: 1 to 2)
+
+1.6,1.7
+65,58

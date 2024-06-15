@@ -7,7 +7,7 @@ The number of Worker:
 The number of Factory:
 2
 Processing time per order on each machine:
-(where rows denote orders: 1 to 7 and columns denote machines: 1 to 2)
+(where rows denote orders: 1 to 7 an d columns denote machines: 1 to 2)
 
 16,10
 16,29
@@ -41,15 +41,15 @@ the initial health value of machine:
 (where columns denote machines: 1 to 2)
 32.48,27.84
 
-the transfer time between factories:
-(where rows denote workers: 1  and columns denote factories: 1 to 2)
+the transfer time between machines
+(where rows denote machines: 1 to 2,  and columns denote machines: 1 to 2)
 
 0,7
 7,0
-0,0
+
 
 The maintenance cost of workers in both modes:
-(where rows denote modes: 1 to 2 and columns denote worker: 1 )
+(where rows denote modes: 1 to 2, and columns denote worker: 1 )
 
 2.2
 100
